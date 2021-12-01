@@ -1,0 +1,12 @@
+{
+  "dev_tool_path": "/Applications/wechatwebdevtools.app/Contents/MacOS/cli",
+  "project_path": "/Users/jijianfeng/Downloads/study/python/华测/211班/课件资料/src",
+  "platform": "Android",
+  "device_desire": {
+    "serial": "emulator-5554"
+  },
+  "debug_mode": "debug",
+  "enable_app_log": false
+
+
+}
